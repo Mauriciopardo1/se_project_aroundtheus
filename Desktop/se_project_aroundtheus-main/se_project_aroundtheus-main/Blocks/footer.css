@@ -1,0 +1,11 @@
+.footer {
+  text-align: left;
+  background-color: black;
+}
+
+.footer__text {
+  width: 318px;
+  height: 18px;
+  color: rgba(84, 84, 84, 1);
+  margin-top: 60px;
+}
