@@ -1,6 +1,8 @@
 .footer {
   text-align: left;
   background-color: black;
+  max-width: 880px;
+  margin: auto;
 }
 
 .footer__text {
@@ -9,3 +11,12 @@
   color: rgba(84, 84, 84, 1);
   margin-top: 60px;
 }
+
+/* Small Screens (Mobile) */
+@media screen and (max-width: 550px) {
+
+  .footer {
+    text-align: left;
+  }
+}
+
