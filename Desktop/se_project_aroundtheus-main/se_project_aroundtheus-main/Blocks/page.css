@@ -1,0 +1,26 @@
+.page {
+  max-width: 880px;
+  margin: auto;
+  font-family: Inter, Arial, Helvetica, sans-serif;
+  background-color: #000;
+  color: #fff;
+  max-width: calc(100% - 40px);
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+/* Medium Screens (Tablet) */
+@media screen and (max-width: 800px) {
+  .page {
+    margin: 0 20px;
+  }
+}
+
+/* Small Screens (Mobile) */
+@media screen and (max-width: 550px) {
+  .page {
+    margin: 0 20px;
+  }
+}
