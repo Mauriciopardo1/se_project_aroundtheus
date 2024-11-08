@@ -1,0 +1,27 @@
+.header {
+  margin: auto;
+  max-width: 880px;
+  min-height: 74px;
+  margin-top: 45px;
+  border-bottom: 1px solid rgba(84, 84, 84, 0.7);
+  background-image: url(../Images/Header.svg);
+  background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 890px) and (min-width: 621px) {
+  .header {
+margin: 45px 20px 0;
+  }}
+
+@media screen and (max-width: 620px) {
+  .header {
+    background: url(../Images/Header\ mobile.svg);
+    background-repeat: no-repeat;
+    background-position: left 27px top;
+    min-height: 56px;
+    margin-top: 28px;
+    margin-bottom: 0;
+    width: 100%;
+    padding: 0;
+  }
+}

@@ -1,0 +1,22 @@
+.footer {
+  text-align: left;
+  background-color: black;
+  max-width: 880px;
+  margin: auto;
+}
+
+.footer__text {
+  max-width: 318px;
+  color: rgba(84, 84, 84, 1);
+  margin-top: 60px;
+  margin-bottom: 0;
+}
+
+/* Small Screens (Mobile) */
+@media screen and (max-width: 620px) {
+
+  .footer {
+    text-align: left;
+  }
+}
+
