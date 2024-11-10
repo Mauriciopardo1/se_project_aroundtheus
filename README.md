@@ -41,3 +41,7 @@ When people click or touch the image, they would be able to see a brief descript
 **GitHub Pages**
 
 https://github.com/Mauriciopardo1/se_project_aroundtheus.git
+
+**Video**
+
+https://drive.google.com/file/d/1SDBeSt0FtvK4XthYyDeWdrSQBTY60i6M/view?usp=sharing
